@@ -29,7 +29,7 @@ Meu objetivo é evoluir como desenvolvedor, adquirir experiência prática e con
 - [GitHub](https://github.com/clauber01)
 - [LinkedIn](https://www.linkedin.com/in/clauber-feliciano-6a562b264/)
 - [E-mail](mailto:clauber.feliciano.p.2016@gmail.com)
-
+- [portfólio](https://clauber01.github.io/meu-portfolio/)
 ---
 
 ⭐ Obrigado por visitar meu perfil!
