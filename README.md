@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Clauber Feliciano Pereira 👋
 
-<!--
-**clauber01/clauber01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Aprendendo programação e desenvolvimento web  
+🌱 Atualmente estudando C, HTML, CSS, JavaScript e fundamentos de banco de dados
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Ciência da Computação e estou construindo minha base em programação e tecnologia. Gosto de aprender desenvolvendo projetos e explorando materiais de estudo da comunidade.
+
+Meu objetivo é evoluir como desenvolvedor, adquirir experiência prática e contribuir com soluções úteis.
+
+## Tecnologias
+
+- **C** — básico
+- **HTML** — básico
+- **CSS** — básico
+- **JavaScript** — básico
+- **Banco de dados** — fundamentos básicos
+- **Ferramentas:** Git, GitHub e VS Code
+
+## Projetos e estudos
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) — roteiro de estudos sobre estruturas de dados, algoritmos e entrevistas técnicas.
+- [The Odin Project — Curriculum](https://github.com/TheOdinProject/curriculum) — currículo aberto para aprender desenvolvimento web.
+
+## Contato
+
+- [GitHub](https://github.com/clauber01)
+- [LinkedIn](https://www.linkedin.com/in/clauber-feliciano-6a562b264/)
+- [E-mail](mailto:clauber.feliciano.p.2016@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
